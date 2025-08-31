@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Exp3_s3_Kevin_Lovera" id="A67A24D0-9531-0CBB-3282-892ED81491AD" version="3.5">
+<createdBy>Lenovo</createdBy>
+<createdTime>2025-08-30 13:57:29 UTC</createdTime>
+<ownerDesignName>Exp3_s3_Kevin_Lovera</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>A67A24D0-9531-0CBB-3282-892ED81491AD</designId>
+</OSDM_Design>
